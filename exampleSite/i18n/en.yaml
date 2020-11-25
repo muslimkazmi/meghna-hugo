@@ -1,6 +1,4 @@
 ---
-- id: blogTitle
-  translation: Latest Post
 - id: about
   translation: About Us
 - id: services
