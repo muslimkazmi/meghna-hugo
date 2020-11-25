@@ -7,8 +7,6 @@ contact:
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
   contact_list:
-  - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
   - icon: ti-printer
     info: 'Fax: +880-31-000-000'
   - icon: ti-email
