@@ -1,13 +1,7 @@
 ---
 - id: blogTitle
   translation: Latest Post
-- id: viewAllPost
-  translation: View All Post
-- id: share
-  translation: Share
 - id: about
   translation: About Us
 - id: services
   translation: Service
-- id: team
-  translation: Team
